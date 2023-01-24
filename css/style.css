@@ -9,13 +9,17 @@
     text-align: center;
     background: linear-gradient(to bottom, #6ab7f5,#fff);
     min-height: 100vh;
+    height:100%;
+    width: 100%;
  }
  main{
-    display: inline-block;
+    /* display: inline-block; */
     margin-top: 2%;
     padding: 15px;
+    height:100%;
+    width: 100%;
  }
  .pokedex{
-    width:100%;
-    max-width: 425px;
+    width:570px;
+    height: 500px;
  }
